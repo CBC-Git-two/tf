@@ -1,4 +1,4 @@
-#Testing
+#Testing1
 # aws_domain_redirect
 
 This module implements a domain that redirects clients to another URL. Useful for creating human-friendly shortcuts for deeper links into a site, or for dynamic links (e.g. `download.example.com` always pointing to your latest release).
