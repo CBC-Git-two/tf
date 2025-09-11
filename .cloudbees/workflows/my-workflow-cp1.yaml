@@ -24,7 +24,7 @@ jobs:
         with:
           version: hac-0.1
           url: 020229604682.dkr.ecr.us-east-1.amazonaws.com/throwaway/actions/vulnerable-image:hac-0.1
-          action-name: hackers
+          name: hackers
         uses: cloudbees-io/register-build-artifact@v1
         id: register-artifact
       - name: Print output parameter artifact ID
